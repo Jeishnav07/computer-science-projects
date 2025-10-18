@@ -1,2 +1,2 @@
-#Project 2 - Approximation series
+#Project 1 - Approximation series
 This project is in python pygame etc.....
