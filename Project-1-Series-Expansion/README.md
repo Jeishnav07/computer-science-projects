@@ -1,4 +1,6 @@
 Project: Series Expansion Experiment
+-------------------
+
 
 Project Description
 -------------------
@@ -27,5 +29,6 @@ pip install -r requirements.txt
 
 # 3. run the app
 python main.py
+
 
 
