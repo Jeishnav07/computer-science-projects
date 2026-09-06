@@ -15,7 +15,7 @@ Quick start
    # Windows:
    .venv\Scripts\activate
    # macOS / Linux:
-   # source .venv/bin/activate
+   source .venv/bin/activate
 
 2. install dependencies
    pip install -r requirements.txt
@@ -34,6 +34,3 @@ Controls (inside the app)
 Notes
 - Keep the window open and press keys to run experiments.
 - The code is intentionally small and well-commented for easy explanation.
-
-Maintainer
-- Your Name (you) — small school project / portfolio
